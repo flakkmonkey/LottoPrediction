@@ -22,8 +22,8 @@ This Python script analyzes past winning numbers from Powerball and Mega Million
 
 1. **Clone or download the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/flakkmonkey/LottoPrediction.git
+   cd /path/to/download/directory
    ```
 
 2. **Install required Python packages:**
@@ -31,7 +31,7 @@ This Python script analyzes past winning numbers from Powerball and Mega Million
    pip install pandas openpyxl
    ```
 
-3. **Prepare the Excel files:**
+3. **Prepare the Excel files (or use the Excel files provided in the repo):**
    - Create two Excel files named `powerball.xlsx` and `megamillions.xlsx`.
    - Each file should have a sheet named `winners` containing the following columns:
      - `Winning Numbers`: A string of winning numbers separated by spaces (e.g., "04 15 24 35 58").
