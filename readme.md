@@ -1,7 +1,3 @@
-Here's a README file for installing and using your lottery number prediction script.
-
----
-
 # Lottery Number Prediction Script
 
 This Python script analyzes past winning numbers from Powerball and Mega Millions games and predicts potential future winning numbers based on frequency analysis. The script reads historical data from an Excel file, calculates the frequency of each number, and then generates possible combinations of numbers for the next draw.
