@@ -31,7 +31,7 @@ This Python script analyzes past winning numbers from Powerball and Mega Million
    pip install pandas openpyxl
    ```
 
-3. **Prepare the Excel files (or use the Excel files provided in the repo):**
+3. **Prepare the Excel files (or use the Excel files provided in this repository):**
    - Create two Excel files named `powerball.xlsx` and `megamillions.xlsx`.
    - Each file should have a sheet named `winners` containing the following columns:
      - `Winning Numbers`: A string of winning numbers separated by spaces (e.g., "04 15 24 35 58").
